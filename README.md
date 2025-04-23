@@ -1,1 +1,2 @@
 # Financial_Data_Analysis_Cycle26
+The project aims to design and implement a robust data pipeline for processing customer account data. This includes copying data from ADLS GEN2 (Bronze layer) and transforming the data in the silver layer using Data bricks Notebooks and GOLD Storage into the SCD Type 1 Delta Table in ADLS GEN2. The pipeline aims to ensure efficient, accurate, and scalable data processing to support downstream analytics and reporting needs.
